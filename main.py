@@ -6,15 +6,15 @@ from flask import render_template
 from werkzeug.utils import secure_filename
 import numpy as np
 import pandas as pd
-'''
-from keras.preprocessing import image
-from keras.applications import xception
-from keras.applications import inception_v3
-from os.path import join
-import pickle
-import matplotlib.pyplot as plt
-import io
-'''
+
+#from keras.preprocessing import image
+#from keras.applications import xception
+#from keras.applications import inception_v3
+#from os.path import join
+#import pickle
+#import matplotlib.pyplot as plt
+#import io
+
 
 UPLOAD_FOLDER = './upload'
 ALLOWED_EXTENSIONS = set(['txt', 'pdf', 'png', 'jpg', 'jpeg', 'gif'])
