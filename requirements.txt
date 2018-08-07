@@ -1,3 +1,5 @@
+pip
+setuptools
 Flask==0.12.1
 numpy
 pandas
