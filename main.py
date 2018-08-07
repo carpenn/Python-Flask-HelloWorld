@@ -1,4 +1,3 @@
-!pip install pickle
 import os
 from flask import Flask, flash, request, redirect, url_for
 from flask import send_file
