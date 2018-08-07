@@ -1,5 +1,3 @@
-!pip install --upgrade pip
-!pip install --upgrade setuptools
 Flask==0.12.1
 numpy
 pandas
