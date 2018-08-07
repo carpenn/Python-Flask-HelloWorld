@@ -1,11 +1,11 @@
 
 import os
 from flask import Flask, flash, request, redirect, url_for
-from flask import send_file
-from flask import render_template
+#from flask import send_file
+#from flask import render_template
 from werkzeug.utils import secure_filename
-import numpy as np
-import pandas as pd
+#import numpy as np
+#import pandas as pd
 
 #from keras.preprocessing import image
 #from keras.applications import xception
